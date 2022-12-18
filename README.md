@@ -5,12 +5,9 @@ Here is a python game that uses the principle of the snake game. This game was m
 You will find several mechanics there such as the apple which makes the snake grow or the fire which kills our snake and ends the game.
 <hr>
 
-## The libraries used:
+## What is import?
 ### Random:
-#### Link:
-#### Why is use:
-### Pygame:
-#### Link:
+### Pygame: 
  https://www.pygame.org/news
 #### Why is use: 
 to set up a game easily with the python language
