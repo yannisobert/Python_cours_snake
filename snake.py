@@ -85,7 +85,7 @@ def gameLoop(best_score):
                 if event.key == pygame.K_DOWN and y1_change != -snake.y_negative:
                     y1_change = snake.moveDown()
                     x1_change = 0
-        # borders
+        # if snake_head touch edge
         if x1 >= width or x1 < 0 or y1 >= height or y1 < 0:
             game_close = True
         x1 += x1_change

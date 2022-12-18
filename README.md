@@ -18,4 +18,5 @@ to set up a game easily with the python language
 <hr>
 
 ## The diagram:
-# Python_cours_snake
+
+<img src="images/diagramm.png">
